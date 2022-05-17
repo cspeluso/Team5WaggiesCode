@@ -102,7 +102,7 @@ delay(200);
 
 }//LOOP END BRACKET
 
-void drawTreats(int type_treat) //shows the display 
+void drawTreats(int type_treat) //shows the display for the bones or bits
 {
   int color = TFT_BLACK;
   bool bits = false;
